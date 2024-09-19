@@ -1,7 +1,7 @@
 # app-explore-note-vue
 
 ```
-$ npm run dev
+$ npm install
 ```
 
 explore: http://localhost:5173/explore
